@@ -1,3 +1,7 @@
 backend
 new
+<<<<<<< HEAD
 bruhhh
+=======
+sbrtbgwrg
+>>>>>>> backend
